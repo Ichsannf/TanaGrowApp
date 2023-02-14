@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TanaGrow</string>
+    <string name="splashTeksTanaGrow">TanaGrow make your plant feel better</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_activites">NO ACTIVITIES</string>
+</resources>
